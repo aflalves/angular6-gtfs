@@ -7,6 +7,11 @@ import { GtfsService } from 'src/app/modules/gtfs/gtfs.service';
   templateUrl: './lines.component.html',
   styleUrls: ['./lines.component.css']
 })
+
+/**
+ * Lists trips from GTFS feed.
+ * Emits trip_id to parent component to change route that is display on map
+ */
 export class LinesComponent implements OnInit {
 
   @Output() showTripEvent = new EventEmitter<any>();

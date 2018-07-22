@@ -3,11 +3,11 @@ import { GtfsService } from 'src/app/modules/gtfs/gtfs.service';
 import { GtfsEnum } from 'src/app/enums/gtfs.enum';
 
 @Component({
-  selector: 'app-map',
-  templateUrl: './map.component.html',
-  styleUrls: ['./map.component.css']
+  selector: 'app-trip-component',
+  templateUrl: './trip.component.html',
+  styleUrls: ['./trip.component.css']
 })
-export class MapComponent implements OnInit {
+export class TripComponent implements OnInit {
 
   tripRoute = [];
   trips = [];

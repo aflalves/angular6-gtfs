@@ -11,20 +11,20 @@ import { NavComponent } from './components/navigation/nav.component';
 import { LayoutModule } from '@angular/cdk/layout';
 import {
   MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, MatButtonToggleModule } from '@angular/material';
-import { MapComponent } from './components/map/map.component';
 import { WelcomeComponent } from './components/welcome/welcome.component';
 import { LinesComponent } from './components/lines/lines.component';
+import { TripComponent } from './components/map/trip.component';
 
 const appRoutes: Routes = [
   { path: '', component: WelcomeComponent },
-  { path: 'map', component: MapComponent }
+  { path: 'trips', component: TripComponent }
 ];
 
 @NgModule({
   declarations: [
     AppComponent,
     NavComponent,
-    MapComponent,
+    TripComponent,
     WelcomeComponent,
     LinesComponent
   ],
