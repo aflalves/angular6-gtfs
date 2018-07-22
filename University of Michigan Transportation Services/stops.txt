@@ -1,0 +1,92 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+C200,C200,"Michigan Union, S. State",across from Michigan Union at Art Museum,42.275151,-83.740607,,,,,,2
+C201,C201,"Michigan Union, S. Univ",across from Law Quad at Art Museum,42.274988,-83.740141,,,,,,2
+C202,C202,Shapiro Library,N side of S University E of Tappan,42.275051,-83.737589,,,,,,2
+C203,C203,"East Quad, Willard",Willard at E University,42.273793,-83.735526,,,,,,2
+C208,C208,Kraus Building,S side of N University at Kraus Bldg,42.278488,-83.738729,,,,,,2
+C210,C210,Power Center,Fletxher St at E Huron St,42.280851,-83.737094,,,,,,2
+C211,C211,Rackham Bldg,Fletcher St at Washington St,42.280635,-83.737273,,,,,,2
+C250,C250,Central Campus Transit Center: Chemistry,S side of Central Campus Transit Center,42.277682,-83.734936,,,,,,2
+C251,C251,Central Campus Transit Center: Ruthven Museum,N side of Central Campus Transit Center,42.278176,-83.735084,,,,,,2
+E601,E601,Green Rd Park & Ride Outbound,E side of service island in Green Rd Park and Ride lot,42.300154,-83.693166,,,,,,2
+E603,E603,Michigan House,At the driveway to Michigan House on the N side of Commonwealth Blvd,42.30828,-83.695795,,,,,,2
+E604,E604,2101 Commonwealth,"2101 Commonwealth, in parking lot",42.30631,-83.696538,,,,,,2
+E605,E605,Rachel Upjohn Building,Front entrance to Rachel Upjohn Bldg and Depression Center,42.307907,-83.675536,,,,,,2
+E606,E606,East Ann Arbor Health & Geriatrics Center,"Main entrance to East Ann Arbor Health and Geriatrics Center, under overhang",42.308185,-83.673986,,,,,,2
+E607,E607,Arbor Lakes,"Main entrance to Arbor Lakes facility, inside circle driveway",42.310883,-83.6767,,,,,,2
+E608,E608,Domino's Farms Lobby A,W entrance to Dominos Farms Lobby A,42.314887,-83.683234,,,,,,2
+E609,E609,Domino's Farms Lobby C,W entrance to Dominos Farms Lobby C,42.315938,-83.683264,,,,,,2
+E610,E610,Domino's Farms Lobby M,E entrance to Dominos Farms Lobby M,42.32114,-83.682196,,,,,,2
+E611,E611,Domino's Farms Lobby H,E entrance to Dominos Farms Lobby H (Main entrance to Dominos Farms),42.318142,-83.6821,,,,,,2
+E612,E612,Plymouth Park-and-Ride,Plymouth Rd AAATA Park-and-Ride at US-23,42.30597,-83.68852,,,,,,2
+M302,M302,Stockwell Hall Inbound,W side of Observatory at Stockwell Hall,42.278494,-83.731104,,,,,,2
+M303,M303,Cardiovascular Center,E side of Observatory at Ann St,42.281798,-83.731002,,,,,,2
+M304,M304,Lloyd/Observatory,W side of Observatory at Ann St,42.281996,-83.731232,,,,,,2
+M305,M305,Couzens Hall,SE corner of Ann St and Zina Pitcher,42.282236,-83.733276,,,,,,2
+M306,M306,Zina Pitcher,E side of Zina Pitcher between Ann St and Catherine St,42.282695,-83.73344,,,,,,2
+M307,M307,Biomedical Science Research Bldg,W side of Zina Pitcher between Ann St and Washtenaw,42.281984,-83.733638,,,,,,2
+M309,M309,Glen/Catherine Outbound,NE corner of Catherine St and Glen Ave,42.283383,-83.73551,,,,,,2
+M311,M311,North Ingalls Bldg,"E side of North Ingalls, N of Catherine St",42.283524,-83.738434,,,,,,2
+M312,M312,Medical Science Research Bldg II,N side of West Medical Center Dr at Medical Sciences Bldg driveway,42.284965,-83.734687,,,,,,2
+M313,M313,Markley Hall,Across from Mott Hospital at Mary Markley Hall,42.281347,-83.728011,,,,,,2
+M314,M314,Mott Hospital,"N side of E Medical Center Dr at P4 parking structure, W of Mott Hospital",42.281505,-83.728982,,,,,,2
+M315,M315,Taubman Outbound,E Medical Center Dr across from UM Hospital Main Entrance,42.283749,-83.726923,,,,,,2
+M316,M316,Taubman Inbound,E Medical Center Dr at UM Hospital Main Entrance,42.284023,-83.727306,,,,,,2
+M317,M317,Cancer Center Inbound,"S side of E Medical Center Dr, E of Cancer Center Circle Dr",42.285271,-83.730914,,,,,,2
+M319,M319,Cancer Center Outbound,"N side of E Medical Center Dr, W of Cancer Center Circle Dr",42.285544,-83.731538,,,,,,2
+M321,M321,Maiden Lane,NW corner of Maiden Ln Ct at Wall St,42.287583,-83.734128,,,,,,2
+M323,M323,Wall St Structure,Wall St parking structure across from Kellogg Eye Center,42.288483,-83.735965,,,,,,2
+M324,M324,VA Hospital Circle Drive,Stop near VA Hospital Main entrance,42.286465,-83.71397,,,,,,2
+M350,M350,"Fuller Rd at Mitchell Field, Lot M-75","Fuller Rd stop between entrances to M-75, S side of Fuller Rd",42.287108,-83.723331,,,,,,2
+M351,M351,"Lot M-75, Mitchell Field, Outbound (2)","Inside lot M-75 at Mitchell Field, E of E driveway",42.286812,-83.723014,,,,,,2
+M352,M352,"Lot M-75, Mitchell Field, Inbound (1)","Inside Lot M-75 at Mitchell Field, W of E driveway",42.286892,-83.722684,,,,,,2
+M353,M353,"Lot M-75, Mitchell Field, Inbound (2)","Inside Lot M-75 at Mitchell Field, E of Cedar Bend Driveway",42.286828,-83.723778,,,,,,2
+M354,M354,"Lot M-75, Mitchell Field, Outbound (1)","Inside lot M-75, W of Cedar Bend Dr",42.286763,-83.723939,,,,,,2
+N400,N400,"VA Hospital, Fuller Rd",On Fuller Rd between Glazier Way and Beal Ave,42.2875,-83.71254,,,,,,2
+N401,N401,Biomedical Engineering Bldg,W side of Beal at Biomedical Engineering Bldg,42.288535,-83.713062,,,,,,2
+N402,N402,Ford Presidential Library,E side of Beal at Gerald R Ford Presidential Library,42.288514,-83.712909,,,,,,2
+N403,N403,Cooley Lab Inbound,"N side of Bonisteel, W of Beal",42.290454,-83.7142,,,,,,2
+N404,N404,Cooley Lab Outbound,"S side of Bonisteel, W of Beal",42.290211,-83.71375,,,,,,2
+N405,N405,FXB Inbound,W side of Beal at Hayward,42.293481,-83.712643,,,,,,2
+N406,N406,FXB Outbound,E side of Beal at Hayward,42.293572,-83.71252,,,,,,2
+N414,N414,Northwood III Outbound,"S side of Hubbard at Northwood III, across from lot NW 10",42.294869,-83.717922,,,,,,2
+N416,N416,Northwood I Outbound,"S side of Hubbard, W of Cram Circle",42.29499,-83.714997,,,,,,2
+N418,N418,Cram Circle Outbound,"E side of Cram Circle, N of Hubbard",42.296564,-83.715131,,,,,,2
+N420,N420,Northwood II Outbound,"S side of Bishop, W of Beal",42.297772,-83.712708,,,,,,2
+N421,N421,Fire Station Inbound,Firestation driveway at bus shelter,42.299847,-83.712484,,,,,,2
+N424,N424,Plymouth Rd Crosswalk,"S side of McIntyre, Northwood IV, lot NW 44",42.301442,-83.709615,,,,,,2
+N426,N426,Northwood IV,W side of McIntyre at lot NW 46,42.298682,-83.709545,,,,,,2
+N428,N428,Northwood Community Center,"W side of McIntyre, across from NW Community Ctr at lot NW 47",42.297335,-83.709671,,,,,,2
+N429,N429,"Hayward/Hubbard, Hubbard Inbound","N side of Hubbard, east of Hayward/Hubbard intersection",42.295681,-83.707214,,,,,,2
+N430,N430,"Hayward/Hubbard, Hubbard Outbound","W side of Hubbard, N of Hayward/Hubbard intersection",42.295877,-83.707689,,,,,,2
+N431,N431,"Huron/Hubbard, Hubbard Inbound","N side of Hubbard, W of Huron Pkwy",42.295495,-83.705336,,,,,,2
+N432,N432,"Hayward/Hubbard, Hayward Outbound","S side of Hayward, W of Hayward/Hubbard intersection",42.295433,-83.707682,,,,,,2
+N433,N433,"NCAC, Hubbard Inbound","N side of Hubbard at NCAC, lot NC 65",42.295128,-83.70305,,,,,,2
+N434,N434,"Huron/Hubbard, Huron Outbound","W side of Huron Pkwy, S of Hubbard",42.295187,-83.704939,,,,,,2
+N435,N435,Northwood V (1),"Northwood V, W side of Stone Rd at Hubbard Rd",42.294566,-83.700368,,,,,,2
+N436,N436,Northwood V (2),"Northwood V, Stone Rd between NW 53 and NW 54",42.293271,-83.699099,,,,,,2
+N440,N440,"NCRC, SB Huron Pkwy","NCRC, E side of Huron Pkwy, S of Plymouth",42.30079,-83.704566,,,,,,2
+N441,N441,"NCRC, NB Huron Pkwy","NCRC, E side of Huron Pkwy, S of Plymouth",42.300427,-83.704166,,,,,,2
+N442,N442,"NCAC, Inbound","Lot NC 65, N side of NCAC complex (WBD)",42.296868,-83.702388,,,,,,2
+N443,N443,"NCAC, Outbound","Lot NC 65, N side of NCAC complex (EBD)",42.296939,-83.702479,,,,,,2
+N444,N444,"North Campus Facilities Services Bldg, Outbound",S side of Baxter Rd across from maintenance facility,42.297861,-83.697351,,,,,,2
+N445,N445,"North Campus Facilities Services Bldg, Inbound",N side of Baxter at Maintenance Facility,42.297949,-83.697367,,,,,,2
+N446,N446,NCRC,NCRC at Building 18,42.301063,-83.705668,,,,,,2
+N452,N452,"Fuller Rd at Lot NC-78, Mitchell Field (3)",W stop on N side of Fuller Rd at NC 78,42.287276,-83.722974,,,,,,2
+N500,N500,"Glazier Way, Lot NC-51, West",Glazier Way (NC 51) first stop on W side of lot,42.288854,-83.706097,,,,,,2
+N501,N501,"Glazier Way, Lot NC-51, North",Glazier Way (NC 51) second stop on N side of lot,42.289806,-83.705105,,,,,,2
+N502,N502,"Glazier Way, Lot NC-51, East",Glazier Way (NC 51) third stop on E side of lot,42.288703,-83.704971,,,,,,2
+N550,N550,"Pierpont Commons, Murfin Outbound","NE corner of Murfin and Bonisteel, on Murfin",42.290818,-83.718419,,,,,,2
+N552,N552,Art & Architecture,SE corner of Bonisteel and Murfin,42.290206,-83.717752,,,,,,2
+N553,N553,"Pierpont Commons, Bonisteel Inbound","NE corner of Murfin and Bonisteel, on Bonisteel",42.290425,-83.718151,,,,,,2
+S001,S001,Crisler Center/Lot SC-7,glass shelter between Crisler Lots SC-5 and SC-7,42.264356,-83.744354,,,,,,2
+S003,S003,Transportation Gate,back door to Transit Services Bldg,42.266381,-83.745282,,,,,,2
+S004,S004,Facilities Services Building,SE corner of Kipke and Greene,42.268068,-83.747307,,,,,,2
+S005,S005,Institute for Continuing Legal Education,W side of Greene bteween Hoover and Kipke,42.268515,-83.747545,,,,,,2
+S006,S006,Greene/Hoover,E side of Greene St at Hoover,42.269279,-83.747427,,,,,,2
+S007,S007,Intramural Building Outbound,S side of Hoover between Division and Sybil,42.269587,-83.743371,,,,,,2
+S008,S008,Intramural Building Inbound,N side of Hoover between Sybil and Division,42.269671,-83.743343,,,,,,2
+S002,S002,Crisler Center Lot SC-5,N side of Kipke Drive between Campus Safety and Transportation Services,42.26583,-83.745127,,,,,,2
+S009,S009,Law Quad,E side of NBD State at Monroe St,42.273502,-83.740641,,,,,,2
+S010,S010,South Quad,W side of SBD State past Monroe St,42.273052,-83.740726,,,,,,2
+M322,M322,W Medical Ctr Dr at Catherine,E side of West Medical Center Drive N of Catherine at Medical School,42.283541,-83.735342,,,,,,2

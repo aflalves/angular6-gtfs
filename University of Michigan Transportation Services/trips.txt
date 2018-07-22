@@ -1,0 +1,1027 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+CN,3705,42407,Commuter North to Glazier Way,,0,3501,739,1,2
+CN,3705,42406,Commuter North to Glazier Way,,0,3502,739,1,2
+CN,5,42464,Commuter North to Glazier Way,,0,3710,735,1,2
+CN,3705,42405,Commuter North to Glazier Way,,0,3503,739,1,2
+CN,5,42463,Commuter North to Glazier Way,,0,3707,735,1,2
+CN,3705,42404,Commuter North to Glazier Way,,0,3504,739,1,2
+CN,5,42462,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,5,42456,Commuter North to Glazier Way,,0,3712,735,1,2
+CN,3705,42403,Commuter North to Glazier Way,,0,3505,739,1,2
+CN,5,42461,Commuter North to Glazier Way,,0,3710,735,1,2
+CN,3705,42402,Commuter North to Glazier Way,,0,3506,739,1,2
+CN,5,42460,Commuter North to Glazier Way,,0,3707,735,1,2
+CN,3705,42401,Commuter North to Glazier Way,,0,3507,739,1,2
+CN,5,42459,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,3705,42400,Commuter North to Glazier Way,,0,3508,739,1,2
+CN,5,42458,Commuter North to Glazier Way,,0,3710,735,1,2
+CN,3705,42399,Commuter North to Glazier Way,,0,3509,739,1,2
+CN,5,42457,Commuter North to Glazier Way,,0,3707,735,1,2
+CN,3705,42398,Commuter North to Glazier Way,,0,3510,739,1,2
+CN,5,42455,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,3705,42397,Commuter North to Glazier Way,,0,3511,739,1,2
+CN,5,42454,Commuter North to Glazier Way,,0,3710,735,1,2
+CN,3705,42396,Commuter North to Glazier Way,,0,3512,739,1,2
+CN,5,42453,Commuter North to Glazier Way,,0,3707,735,1,2
+CN,3705,42395,Commuter North to Glazier Way,,0,3513,739,1,2
+CN,5,42452,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,3705,42394,Commuter North to Glazier Way,,0,3514,739,1,2
+CN,5,42451,Commuter North to Glazier Way,,0,3710,735,1,2
+CN,3705,42393,Commuter North to Glazier Way,,0,3515,739,1,2
+CN,3705,42392,Commuter North to Glazier Way,,0,3516,739,1,2
+CN,5,42450,Commuter North to Glazier Way,,0,3707,735,1,2
+CN,3705,42391,Commuter North to Glazier Way,,0,3517,739,1,2
+CN,5,42449,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,5,42448,Commuter North to Glazier Way,,0,3710,735,1,2
+CN,3705,42390,Commuter North to Glazier Way,,0,3518,739,1,2
+CN,3705,42389,Commuter North to Glazier Way,,0,3519,739,1,2
+CN,3705,42388,Commuter North to Glazier Way,,0,3520,739,1,2
+CN,5,42447,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,3705,42387,Commuter North to Glazier Way,,0,3521,739,1,2
+CN,3705,42386,Commuter North to Glazier Way,,0,3522,739,1,2
+CN,3705,42385,Commuter North to Glazier Way,,0,3523,739,1,2
+CN,5,42446,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,5,43422,Commuter North to Glazier Way,,0,3524,739,1,2
+CN,3705,42384,Commuter North to Glazier Way,,0,3525,739,1,2
+CN,3705,42383,Commuter North to Glazier Way,,0,3526,739,1,2
+CN,5,42445,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,3705,42382,Commuter North to Glazier Way,,0,3527,739,1,2
+CN,3705,42381,Commuter North to Glazier Way,,0,3528,739,1,2
+CN,3705,42380,Commuter North to Glazier Way,,0,3529,739,1,2
+CN,5,42444,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,3705,42379,Commuter North to Glazier Way,,0,3530,739,1,2
+CN,3705,42378,Commuter North to Glazier Way,,0,3531,739,1,2
+CN,3705,42377,Commuter North to Glazier Way,,0,3532,739,1,2
+CN,5,42443,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,5,43424,Commuter North to Glazier Way,,0,3533,739,1,2
+CN,3705,42376,Commuter North to Glazier Way,,0,3534,739,1,2
+CN,3705,42375,Commuter North to Glazier Way,,0,3535,739,1,2
+CN,5,42442,Commuter North to Glazier Way,,0,3713,735,1,2
+CN,3705,42374,Commuter North to Glazier Way,,0,3536,739,1,2
+CN,3705,42373,Commuter North to Glazier Way,,0,3537,739,1,2
+CN,3705,42372,Commuter North to Glazier Way,,0,3538,739,1,2
+CN,5,42441,Commuter North to Glazier Way,,0,3713,735,1,2
+CN,3705,42371,Commuter North to Glazier Way,,0,3539,739,1,2
+CN,3705,42370,Commuter North to Glazier Way,,0,3540,739,1,2
+CN,3705,42369,Commuter North to Glazier Way,,0,3541,739,1,2
+CN,5,42440,Commuter North to Glazier Way,,0,3713,735,1,2
+CN,3705,42368,Commuter North to Glazier Way,,0,3542,739,1,2
+CN,3705,42367,Commuter North to Glazier Way,,0,3543,739,1,2
+CN,5,43426,Commuter North to Glazier Way,,0,3544,739,1,2
+CN,5,42439,Commuter North to Glazier Way,,0,3713,735,1,2
+CN,3705,42366,Commuter North to Glazier Way,,0,3545,739,1,2
+CN,3705,42365,Commuter North to Glazier Way,,0,3546,739,1,2
+CN,3705,42364,Commuter North to Glazier Way,,0,3547,739,1,2
+CN,5,42438,Commuter North to Glazier Way,,0,3713,735,1,2
+CN,3705,42363,Commuter North to Glazier Way,,0,3548,739,1,2
+CN,3705,42362,Commuter North to Glazier Way,,0,3549,739,1,2
+CN,3705,42361,Commuter North to Glazier Way,,0,3550,739,1,2
+CN,3705,42360,Commuter North to Glazier Way,,0,3551,739,1,2
+CN,5,42437,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,3705,42359,Commuter North to Glazier Way,,0,3552,739,1,2
+CN,5,42436,Commuter North to Glazier Way,,0,3715,735,1,2
+CN,3705,42358,Commuter North to Glazier Way,,0,3553,739,1,2
+CN,5,42435,Commuter North to Glazier Way,,0,3716,735,1,2
+CN,3705,42357,Commuter North to Glazier Way,,0,3554,739,1,2
+CN,5,42434,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,5,43428,Commuter North to Glazier Way,,0,3555,739,1,2
+CN,5,42433,Commuter North to Glazier Way,,0,3715,735,1,2
+CN,3705,42356,Commuter North to Glazier Way,,0,3556,739,1,2
+CN,5,42432,Commuter North to Glazier Way,,0,3716,735,1,2
+CN,3705,42355,Commuter North to Glazier Way,,0,3557,739,1,2
+CN,5,42431,Commuter North to Glazier Way,,0,3709,735,1,2
+CN,3705,42354,Commuter North to Glazier Way,,0,3558,739,1,2
+CN,5,42430,Commuter North to Glazier Way,,0,3715,735,1,2
+CN,3705,42353,Commuter North to Glazier Way,,0,3559,739,1,2
+CN,3705,42352,Commuter North to Glazier Way,,0,3560,739,1,2
+CN,5,42429,Commuter North to Glazier Way,,0,3716,735,1,2
+CN,3705,42351,Commuter North to Glazier Way,,0,3561,739,1,2
+CN,3705,42428,Commuter North to Glazier Way,,0,3564,735,1,2
+CN,3405,42409,Commuter North to Glazier Way,,0,3556,735,1,2
+CN,3705,42350,Commuter North to Glazier Way,,0,3563,739,1,2
+CN,3405,42408,Commuter North to Glazier Way,,0,3566,735,1,2
+CN,3705,42427,Commuter North to Glazier Way,,0,3567,735,1,2
+CN,3705,42349,Commuter North to Glazier Way,,0,3565,739,1,2
+CN,5,42426,Commuter North to Glazier Way,,0,3715,735,1,2
+CN,3705,42348,Commuter North to Glazier Way,,0,3557,739,1,2
+CN,5,42425,Commuter North to Glazier Way,,0,3716,735,1,2
+CN,3705,42347,Commuter North to Glazier Way,,0,3562,739,1,2
+CN,5,42424,Commuter North to Glazier Way,,0,3717,735,1,2
+CN,5,43430,Commuter North to Glazier Way,,0,3558,739,1,2
+CN,5,42423,Commuter North to Glazier Way,,0,3715,735,1,2
+CN,3705,42346,Commuter North to Glazier Way,,0,3568,739,1,2
+CN,5,42422,Commuter North to Glazier Way,,0,3716,735,1,2
+CN,3705,42345,Commuter North to Glazier Way,,0,3569,739,1,2
+CN,5,42421,Commuter North to Glazier Way,,0,3717,735,1,2
+CN,3705,42344,Commuter North to Glazier Way,,0,3570,739,1,2
+CN,5,42420,Commuter North to Glazier Way,,0,3715,735,1,2
+CN,3705,42343,Commuter North to Glazier Way,,0,3571,739,1,2
+CN,3705,42342,Commuter North to Glazier Way,,0,3572,739,1,2
+CN,5,42419,Commuter North to Glazier Way,,0,3716,735,1,2
+CN,3705,42341,Commuter North to Glazier Way,,0,3573,739,1,2
+CN,5,42418,Commuter North to Glazier Way,,0,3717,735,1,2
+CN,3705,42340,Commuter North to Glazier Way,,0,3574,739,1,2
+CN,5,42417,Commuter North to Glazier Way,,0,3732,735,1,2
+CN,3705,42339,Commuter North to Glazier Way,,0,3575,739,1,2
+CN,5,42416,Commuter North to Glazier Way,,0,3715,735,1,2
+CN,3705,42338,Commuter North to Glazier Way,,0,3576,739,1,2
+CN,5,42415,Commuter North to Glazier Way,,0,3717,735,1,2
+CN,3705,42337,Commuter North to Glazier Way,,0,3577,739,1,2
+CN,5,42414,Commuter North to Glazier Way,,0,3732,735,1,2
+CN,5,43432,Commuter North to Glazier Way,,0,3578,739,1,2
+CN,5,42413,Commuter North to Glazier Way,,0,3715,735,1,2
+CN,3705,42336,Commuter North to Glazier Way,,0,3579,739,1,2
+CN,5,42412,Commuter North to Glazier Way,,0,3717,735,1,2
+CN,3705,42335,Commuter North to Glazier Way,,0,3580,739,1,2
+CN,5,42411,Commuter North to Glazier Way,,0,3732,735,1,2
+CN,5,42410,Commuter North to Glazier Way,,0,3715,735,1,2
+CN,3705,42334,Commuter North to Glazier Way,,0,3581,739,1,2
+CN,3705,42333,Commuter North to Glazier Way,,0,3582,739,1,2
+CN,3705,42235,Commuter North to Glazier Way,,0,3583,736,1,2
+CN,3705,42234,Commuter North to Glazier Way,,0,3584,736,1,2
+CN,3705,42233,Commuter North to Glazier Way,,0,3585,736,1,2
+CN,3705,42232,Commuter North to Glazier Way,,0,3586,736,1,2
+CN,3705,42231,Commuter North to Glazier Way,,0,3587,736,1,2
+CN,3705,42230,Commuter North to Glazier Way,,0,3588,736,1,2
+CN,3705,42229,Commuter North to Glazier Way,,0,3589,736,1,2
+CN,3705,42228,Commuter North to Glazier Way,,0,3590,736,1,2
+CN,3705,42227,Commuter North to Glazier Way,,0,3591,736,1,2
+CN,3705,42226,Commuter North to Glazier Way,,0,3592,736,1,2
+CN,3705,42225,Commuter North to Glazier Way,,0,3730,736,1,2
+CN,3705,42224,Commuter North to Glazier Way,,0,3593,736,1,2
+CN,3705,42223,Commuter North to Glazier Way,,0,3594,736,1,2
+CN,3705,42222,Commuter North to Glazier Way,,0,3595,736,1,2
+CN,3705,42221,Commuter North to Glazier Way,,0,3596,736,1,2
+CN,3705,42220,Commuter North to Glazier Way,,0,3732,736,1,2
+CN,3705,42219,Commuter North to Glazier Way,,0,3597,736,1,2
+CN,3705,42218,Commuter North to Glazier Way,,0,3598,736,1,2
+CN,3705,42217,Commuter North to Glazier Way,,0,3733,736,1,2
+CN,3705,42216,Commuter North to Glazier Way,,0,3731,736,1,2
+CN,3705,42215,Commuter North to Glazier Way,,0,3599,736,1,2
+CN,3705,42214,Commuter North to Glazier Way,,0,3600,736,1,2
+CS,3705,42559,Commuter South to Kipke Drive,,1,3601,740,1,2
+CS,3705,42558,Commuter South to Kipke Drive,,1,3602,740,1,2
+CS,3705,42557,Commuter South to Kipke Drive,,1,3603,740,1,2
+CS,3705,42556,Commuter South to Kipke Drive,,1,3604,743,1,2
+CS,3705,42555,Commuter South to Kipke Drive,,1,3605,743,1,2
+CS,3705,42554,Commuter South to Kipke Drive,,1,3606,743,1,2
+CS,3705,42553,Commuter South to Kipke Drive,,1,3607,743,1,2
+CS,3705,42552,Commuter South to Kipke Drive,,1,3608,743,1,2
+CS,3705,42551,Commuter South to Kipke Drive,,1,3609,743,1,2
+CS,3705,42550,Commuter South to Kipke Drive,,1,3610,743,1,2
+CS,3705,42549,Commuter South to Kipke Drive,,1,3611,743,1,2
+CS,3705,42548,Commuter South to Kipke Drive,,1,3612,743,1,2
+CS,3705,42547,Commuter South to Kipke Drive,,1,3613,743,1,2
+CS,3705,42546,Commuter South to Kipke Drive,,1,3614,743,1,2
+CS,3705,42545,Commuter South to Kipke Drive,,1,3615,743,1,2
+CS,3705,42544,Commuter South to Kipke Drive,,1,3616,743,1,2
+CS,3705,42543,Commuter South to Kipke Drive,,1,3617,743,1,2
+CS,3705,42542,Commuter South to Kipke Drive,,1,3618,743,1,2
+CS,5,43434,Commuter South to Kipke Drive,,1,3619,743,1,2
+CS,3705,42541,Commuter South to Kipke Drive,,1,3620,743,1,2
+CS,3705,42540,Commuter South to Kipke Drive,,1,3621,743,1,2
+CS,3705,42539,Commuter South to Kipke Drive,,1,3622,743,1,2
+CS,3705,42538,Commuter South to Kipke Drive,,1,3623,743,1,2
+CS,3705,42537,Commuter South to Kipke Drive,,1,3624,743,1,2
+CS,3705,42536,Commuter South to Kipke Drive,,1,3625,743,1,2
+CS,3705,42535,Commuter South to Kipke Drive,,1,3626,743,1,2
+CS,3705,42534,Commuter South to Kipke Drive,,1,3627,743,1,2
+CS,3705,42533,Commuter South to Kipke Drive,,1,3628,743,1,2
+CS,3705,42532,Commuter South to Kipke Drive,,1,3629,743,1,2
+CS,5,43436,Commuter South to Kipke Drive,,1,3630,743,1,2
+CS,3705,42531,Commuter South to Kipke Drive,,1,3631,743,1,2
+CS,3705,42530,Commuter South to Kipke Drive,,1,3632,743,1,2
+CS,3705,42529,Commuter South to Kipke Drive,,1,3633,743,1,2
+CS,3705,42528,Commuter South to Kipke Drive,,1,3634,743,1,2
+CS,3705,42527,Commuter South to Kipke Drive,,1,3635,743,1,2
+CS,3705,42526,Commuter South to Kipke Drive,,1,3636,743,1,2
+CS,3705,42525,Commuter South to Kipke Drive,,1,3637,743,1,2
+CS,3705,42524,Commuter South to Kipke Drive,,1,3638,743,1,2
+CS,3705,42523,Commuter South to Kipke Drive,,1,3639,743,1,2
+CS,3705,42522,Commuter South to Kipke Drive,,1,3640,743,1,2
+CS,5,43438,Commuter South to Kipke Drive,,1,3641,743,1,2
+CS,3705,42521,Commuter South to Kipke Drive,,1,3642,743,1,2
+CS,3705,42520,Commuter South to Kipke Drive,,1,3643,743,1,2
+CS,3705,42519,Commuter South to Kipke Drive,,1,3644,743,1,2
+CS,3705,42518,Commuter South to Kipke Drive,,1,3645,743,1,2
+CS,3705,42517,Commuter South to Kipke Drive,,1,3646,743,1,2
+CS,3705,42516,Commuter South to Kipke Drive,,1,3647,743,1,2
+CS,3705,42515,Commuter South to Kipke Drive,,1,3648,743,1,2
+CS,3705,42514,Commuter South to Kipke Drive,,1,3649,743,1,2
+CS,3705,42513,Commuter South to Kipke Drive,,1,3650,743,1,2
+CS,3705,42512,Commuter South to Kipke Drive,,1,3651,743,1,2
+CS,5,43440,Commuter South to Kipke Drive,,1,3652,743,1,2
+CS,3705,42511,Commuter South to Kipke Drive,,1,3653,743,1,2
+CS,3705,42510,Commuter South to Kipke Drive,,1,3654,743,1,2
+CS,3705,42509,Commuter South to Kipke Drive,,1,3655,743,1,2
+CS,3705,42508,Commuter South to Kipke Drive,,1,3656,743,1,2
+CS,3705,42507,Commuter South to Kipke Drive,,1,3657,743,1,2
+CS,3705,42506,Commuter South to Kipke Drive,,1,3658,743,1,2
+CS,3705,42505,Commuter South to Kipke Drive,,1,3659,743,1,2
+CS,3705,42504,Commuter South to Kipke Drive,,1,3660,743,1,2
+CS,3705,42503,Commuter South to Kipke Drive,,1,3661,743,1,2
+CS,3705,42502,Commuter South to Kipke Drive,,1,3662,743,1,2
+CS,5,43442,Commuter South to Kipke Drive,,1,3663,743,1,2
+CS,3705,42501,Commuter South to Kipke Drive,,1,3664,743,1,2
+CS,3705,42500,Commuter South to Kipke Drive,,1,3665,743,1,2
+CS,3705,42499,Commuter South to Kipke Drive,,1,3666,743,1,2
+CS,3705,42498,Commuter South to Kipke Drive,,1,3667,743,1,2
+CS,3705,42497,Commuter South to Kipke Drive,,1,3668,743,1,2
+CS,3705,42496,Commuter South to Kipke Drive,,1,3669,743,1,2
+CS,3705,42495,Commuter South to Kipke Drive,,1,3670,743,1,2
+CS,3705,42494,Commuter South to Kipke Drive,,1,3671,743,1,2
+CS,3705,42493,Commuter South to Kipke Drive,,1,3672,743,1,2
+CS,3705,42492,Commuter South to Kipke Drive,,1,3673,743,1,2
+CS,5,43444,Commuter South to Kipke Drive,,1,3674,743,1,2
+CS,3705,42491,Commuter South to Kipke Drive,,1,3675,743,1,2
+CS,3705,42490,Commuter South to Kipke Drive,,1,3676,743,1,2
+CS,3705,42489,Commuter South to Kipke Drive,,1,3677,743,1,2
+CS,3705,42488,Commuter South to Kipke Drive,,1,3678,743,1,2
+CS,3705,42487,Commuter South to Kipke Drive,,1,3679,743,1,2
+CS,3705,42486,Commuter South to Kipke Drive,,1,3680,743,1,2
+CS,3705,42485,Commuter South to Kipke Drive,,1,3681,740,1,2
+CS,3705,42484,Commuter South to Kipke Drive,,1,3682,740,1,2
+CS,3705,42483,Commuter South to Kipke Drive,,1,3683,740,1,2
+CS,3705,42482,Commuter South to Kipke Drive,,1,3684,740,1,2
+CS,3705,42481,Commuter South to Kipke Drive,,1,3685,740,1,2
+CS,3705,42480,Commuter South to Kipke Drive,,1,3686,740,1,2
+CS,3705,42479,Commuter South to Kipke Drive,,1,3687,740,1,2
+CS,3705,42478,Commuter South to Kipke Drive,,1,3688,740,1,2
+CS,3705,42477,Commuter South to Kipke Drive,,1,3689,740,1,2
+CS,3705,42476,Commuter South to Kipke Drive,,1,3690,740,1,2
+CS,3705,42475,Commuter South to Kipke Drive,,1,3691,740,1,2
+CS,3705,42474,Commuter South to Kipke Drive,,1,3734,740,1,2
+CS,3705,42473,Commuter South to Kipke Drive,,1,3692,740,1,2
+CS,3705,42472,Commuter South to Kipke Drive,,1,3693,740,1,2
+CS,3705,42471,Commuter South to Kipke Drive,,1,3694,740,1,2
+CS,3705,42470,Commuter South to Kipke Drive,,1,3695,740,1,2
+CS,3705,42469,Commuter South to Kipke Drive,,1,3735,740,1,2
+CS,3705,42468,Commuter South to Kipke Drive,,1,3696,740,1,2
+CS,3705,42467,Commuter South to Kipke Drive,,1,3697,740,1,2
+CS,3705,42466,Commuter South to Kipke Drive,,1,3736,740,1,2
+CS,3705,42465,Commuter South to Kipke Drive,,1,3737,740,1,2
+MX,5,42719,MedExpress to UM Hospital,,0,3705,746,1,2
+MX,5,42718,MedExpress to UM Hospital,,0,3706,746,1,2
+MX,5,42717,MedExpress to UM Hospital,,0,3707,746,1,2
+MX,5,42716,MedExpress to UM Hospital,,0,3705,747,1,2
+MX,5,42657,MedExpress to UM Hospital,,0,3708,746,1,2
+MX,5,42715,MedExpress to UM Hospital,,0,3706,747,1,2
+MX,5,42658,MedExpress to UM Hospital,,0,3709,746,1,2
+MX,5,42714,MedExpress to UM Hospital,,0,3707,747,1,2
+MX,5,42659,MedExpress to UM Hospital,,0,3710,746,1,2
+MX,5,42713,MedExpress to UM Hospital,,0,3705,747,1,2
+MX,5,42660,MedExpress to UM Hospital,,0,3711,746,1,2
+MX,5,42712,MedExpress to UM Hospital,,0,3706,747,1,2
+MX,5,42711,MedExpress to UM Hospital,,0,3709,747,1,2
+MX,5,42721,MedExpress to UM Hospital,,0,3712,746,1,2
+MX,5,42710,MedExpress to UM Hospital,,0,3705,747,1,2
+MX,5,42709,MedExpress to UM Hospital,,0,3706,747,1,2
+MX,5,42708,MedExpress to UM Hospital,,0,3711,748,1,2
+MX,5,42707,MedExpress to UM Hospital,,0,3712,748,1,2
+MX,5,42706,MedExpress to UM Hospital,,0,3706,748,1,2
+MX,5,42705,MedExpress to UM Hospital,,0,3711,748,1,2
+MX,5,42704,MedExpress to UM Hospital,,0,3712,748,1,2
+MX,5,42703,MedExpress to UM Hospital,,0,3706,748,1,2
+MX,5,42702,MedExpress to UM Hospital,,0,3711,748,1,2
+MX,5,42701,MedExpress to UM Hospital,,0,3712,748,1,2
+MX,5,42700,MedExpress to UM Hospital,,0,3706,748,1,2
+MX,5,42699,MedExpress to UM Hospital,,0,3711,748,1,2
+MX,5,42698,MedExpress to UM Hospital,,0,3712,748,1,2
+MX,5,42697,MedExpress to UM Hospital,,0,3710,748,1,2
+MX,5,42696,MedExpress to UM Hospital,,0,3710,748,1,2
+MX,5,42695,MedExpress to UM Hospital,,0,3710,748,1,2
+MX,5,42694,MedExpress to UM Hospital,,0,3710,748,1,2
+MX,5,42720,MedExpress to UM Hospital,,0,3718,748,1,2
+MX,5,42693,MedExpress to UM Hospital,,0,3709,748,1,2
+MX,5,42692,MedExpress to UM Hospital,,0,3709,748,1,2
+MX,5,42691,MedExpress to UM Hospital,,0,3709,748,1,2
+MX,5,42690,MedExpress to UM Hospital,,0,3709,748,1,2
+MX,5,42689,MedExpress to UM Hospital,,0,3709,748,1,2
+MX,5,42688,MedExpress to UM Hospital,,0,3709,748,1,2
+MX,5,42687,MedExpress to UM Hospital,,0,3713,748,1,2
+MX,5,42686,MedExpress to UM Hospital,,0,3714,748,1,2
+MX,5,42685,MedExpress to UM Hospital,,0,3709,748,1,2
+MX,5,42684,MedExpress to UM Hospital,,0,3713,748,1,2
+MX,5,42683,MedExpress to UM Hospital,,0,3714,748,1,2
+MX,5,42682,MedExpress to UM Hospital,,0,3709,748,1,2
+MX,5,42681,MedExpress to UM Hospital,,0,3713,748,1,2
+MX,5,42680,MedExpress to UM Hospital,,0,3714,748,1,2
+MX,3705,42679,MedExpress to UM Hospital,,0,3557,748,1,2
+MX,3405,42656,MedExpress to UM Hospital,,0,3556,748,1,2
+MX,3405,42655,MedExpress to UM Hospital,,0,3558,748,1,2
+MX,3705,42678,MedExpress to UM Hospital,,0,3562,748,1,2
+MX,5,42677,MedExpress to UM Hospital,,0,3713,748,1,2
+MX,5,42676,MedExpress to UM Hospital,,0,3714,748,1,2
+MX,5,42675,MedExpress to UM Hospital,,0,3717,748,1,2
+MX,5,42674,MedExpress to UM Hospital,,0,3713,748,1,2
+MX,5,42673,MedExpress to UM Hospital,,0,3714,748,1,2
+MX,5,42672,MedExpress to UM Hospital,,0,3717,748,1,2
+MX,5,42671,MedExpress to UM Hospital,,0,3713,748,1,2
+MX,5,42670,MedExpress to UM Hospital,,0,3714,748,1,2
+MX,5,42669,MedExpress to UM Hospital,,0,3717,748,1,2
+MX,5,42668,MedExpress to UM Hospital,,0,3732,748,1,2
+MX,5,42667,MedExpress to UM Hospital,,0,3716,748,1,2
+MX,5,42666,MedExpress to UM Hospital,,0,3714,748,1,2
+MX,5,42665,MedExpress to UM Hospital,,0,3732,748,1,2
+MX,5,42664,MedExpress to UM Hospital,,0,3716,748,1,2
+MX,5,42663,MedExpress to UM Hospital,,0,3714,748,1,2
+MX,5,42662,MedExpress to UM Hospital,,0,3732,748,1,2
+MX,5,42661,MedExpress to UM Hospital,,0,3716,748,1,2
+NE,5,42771,NorthEast Shuttle to Dominos Farm via VA,,0,3719,751,1,2
+NE,5,42746,NorthEast Shuttle to Dominos Farm,,0,3720,752,1,2
+NE,5,42770,NorthEast Shuttle to Dominos Farm via VA,,0,3721,751,1,2
+NE,5,42745,NorthEast Shuttle to Dominos Farm,,0,3722,752,1,2
+NE,5,42769,NorthEast Shuttle to Dominos Farm via VA,,0,3723,751,1,2
+NE,5,42744,NorthEast Shuttle to Dominos Farm,,0,3719,752,1,2
+NE,5,42768,NorthEast Shuttle to Dominos Farm via VA,,0,3720,751,1,2
+NE,5,42743,NorthEast Shuttle to Dominos Farm,,0,3721,752,1,2
+NE,5,42767,NorthEast Shuttle to Dominos Farm via VA,,0,3722,751,1,2
+NE,5,42742,NorthEast Shuttle to Dominos Farm,,0,3723,752,1,2
+NE,5,42766,NorthEast Shuttle to Dominos Farm via VA,,0,3719,751,1,2
+NE,5,42741,NorthEast Shuttle to Dominos Farm,,0,3720,752,1,2
+NE,5,42765,NorthEast Shuttle to Dominos Farm via VA,,0,3721,751,1,2
+NE,5,42740,NorthEast Shuttle to Dominos Farm,,0,3722,752,1,2
+NE,5,42764,NorthEast Shuttle to Dominos Farm via VA,,0,3723,751,1,2
+NE,5,42739,NorthEast Shuttle to Dominos Farm,,0,3719,752,1,2
+NE,5,42763,NorthEast Shuttle to Dominos Farm via VA,,0,3720,751,1,2
+NE,5,42738,NorthEast Shuttle to Dominos Farm,,0,3721,752,1,2
+NE,5,42762,NorthEast Shuttle to Dominos Farm via VA,,0,3722,751,1,2
+NE,5,42737,NorthEast Shuttle to Dominos Farm,,0,3723,752,1,2
+NE,5,42761,NorthEast Shuttle to Dominos Farm via VA,,0,3719,751,1,2
+NE,5,42736,NorthEast Shuttle to Dominos Farm,,0,3720,752,1,2
+NE,5,42760,NorthEast Shuttle to Dominos Farm via VA,,0,3721,751,1,2
+NE,5,42735,NorthEast Shuttle to Dominos Farm,,0,3722,752,1,2
+NE,5,42759,NorthEast Shuttle to Dominos Farm via VA,,0,3723,751,1,2
+NE,5,42734,NorthEast Shuttle to Dominos Farm,,0,3719,752,1,2
+NE,5,42758,NorthEast Shuttle to Dominos Farm via VA,,0,3720,751,1,2
+NE,5,42733,NorthEast Shuttle to Dominos Farm,,0,3721,752,1,2
+NE,5,42757,NorthEast Shuttle to Dominos Farm via VA,,0,3722,751,1,2
+NE,5,42732,NorthEast Shuttle to Dominos Farm,,0,3723,752,1,2
+NE,5,42756,NorthEast Shuttle to Dominos Farm via VA,,0,3719,751,1,2
+NE,5,42731,NorthEast Shuttle to Dominos Farm,,0,3720,752,1,2
+NE,5,42755,NorthEast Shuttle to Dominos Farm via VA,,0,3721,751,1,2
+NE,5,42730,NorthEast Shuttle to Dominos Farm,,0,3722,752,1,2
+NE,5,42754,NorthEast Shuttle to Dominos Farm via VA,,0,3723,751,1,2
+NE,5,42729,NorthEast Shuttle to Dominos Farm,,0,3719,752,1,2
+NE,5,42753,NorthEast Shuttle to Dominos Farm via VA,,0,3720,751,1,2
+NE,5,42728,NorthEast Shuttle to Dominos Farm,,0,3721,752,1,2
+NE,5,42752,NorthEast Shuttle to Dominos Farm via VA,,0,3722,751,1,2
+NE,5,42727,NorthEast Shuttle to Dominos Farm,,0,3723,752,1,2
+NE,5,42751,NorthEast Shuttle to Dominos Farm via VA,,0,3719,751,1,2
+NE,5,42726,NorthEast Shuttle to Dominos Farm,,0,3720,752,1,2
+NE,5,42750,NorthEast Shuttle to Dominos Farm via VA,,0,3721,751,1,2
+NE,5,42725,NorthEast Shuttle to Dominos Farm,,0,3722,752,1,2
+NE,5,42749,NorthEast Shuttle to Dominos Farm via VA,,0,3723,751,1,2
+NE,5,42724,NorthEast Shuttle to Dominos Farm,,0,3719,752,1,2
+NE,5,42748,NorthEast Shuttle to Dominos Farm via VA,,0,3720,751,1,2
+NE,5,42723,NorthEast Shuttle to Dominos Farm,,0,3721,752,1,2
+NE,5,42747,NorthEast Shuttle to Dominos Farm via VA,,0,3722,751,1,2
+NE,5,42722,NorthEast Shuttle to Dominos Farm,,0,3723,750,1,2
+NE,5,43414,NorthEast Shuttle to Dominos Farm via VA,,0,3724,749,1,2
+NE,5,43415,NorthEast Shuttle to Dominos Farm,,0,3725,750,1,2
+NE,5,43416,NorthEast Shuttle to Dominos Farm via VA,,0,3723,749,1,2
+NE,5,43417,NorthEast Shuttle to Dominos Farm,,0,3724,750,1,2
+NE,5,42776,NorthEast Shuttle to UM Hospital,,1,3719,753,1,2
+NE,5,42773,NorthEast Shuttle to UM Hospital via VA,,1,3720,754,1,2
+NE,5,42775,NorthEast Shuttle to UM Hospital,,1,3721,753,1,2
+NE,5,42772,NorthEast Shuttle to UM Hospital via VA,,1,3722,754,1,2
+NE,5,42774,NorthEast Shuttle to UM Hospital,,1,3723,753,1,2
+NE,5,42821,NorthEast Shuttle to UM Hospital via VA,,1,3719,755,1,2
+NE,5,42798,NorthEast Shuttle to UM Hospital,,1,3720,756,1,2
+NE,5,42820,NorthEast Shuttle to UM Hospital via VA,,1,3721,755,1,2
+NE,5,42797,NorthEast Shuttle to UM Hospital,,1,3722,756,1,2
+NE,5,42819,NorthEast Shuttle to UM Hospital via VA,,1,3723,755,1,2
+NE,5,42796,NorthEast Shuttle to UM Hospital,,1,3719,756,1,2
+NE,5,42818,NorthEast Shuttle to UM Hospital via VA,,1,3720,755,1,2
+NE,5,42795,NorthEast Shuttle to UM Hospital,,1,3721,756,1,2
+NE,5,42817,NorthEast Shuttle to UM Hospital via VA,,1,3722,755,1,2
+NE,5,42794,NorthEast Shuttle to UM Hospital,,1,3723,756,1,2
+NE,5,42816,NorthEast Shuttle to UM Hospital via VA,,1,3719,755,1,2
+NE,5,42793,NorthEast Shuttle to UM Hospital,,1,3720,756,1,2
+NE,5,42815,NorthEast Shuttle to UM Hospital via VA,,1,3721,755,1,2
+NE,5,42792,NorthEast Shuttle to UM Hospital,,1,3722,756,1,2
+NE,5,42814,NorthEast Shuttle to UM Hospital via VA,,1,3723,755,1,2
+NE,5,42791,NorthEast Shuttle to UM Hospital,,1,3719,756,1,2
+NE,5,42813,NorthEast Shuttle to UM Hospital via VA,,1,3720,755,1,2
+NE,5,42790,NorthEast Shuttle to UM Hospital,,1,3721,756,1,2
+NE,5,42812,NorthEast Shuttle to UM Hospital via VA,,1,3722,755,1,2
+NE,5,42789,NorthEast Shuttle to UM Hospital,,1,3723,756,1,2
+NE,5,42811,NorthEast Shuttle to UM Hospital via VA,,1,3719,755,1,2
+NE,5,42788,NorthEast Shuttle to UM Hospital,,1,3720,756,1,2
+NE,5,42810,NorthEast Shuttle to UM Hospital via VA,,1,3721,755,1,2
+NE,5,42787,NorthEast Shuttle to UM Hospital,,1,3722,756,1,2
+NE,5,42809,NorthEast Shuttle to UM Hospital via VA,,1,3723,755,1,2
+NE,5,42786,NorthEast Shuttle to UM Hospital,,1,3719,756,1,2
+NE,5,42808,NorthEast Shuttle to UM Hospital via VA,,1,3720,755,1,2
+NE,5,42785,NorthEast Shuttle to UM Hospital,,1,3721,756,1,2
+NE,5,42807,NorthEast Shuttle to UM Hospital via VA,,1,3722,755,1,2
+NE,5,42784,NorthEast Shuttle to UM Hospital,,1,3723,756,1,2
+NE,5,42806,NorthEast Shuttle to UM Hospital via VA,,1,3719,755,1,2
+NE,5,42783,NorthEast Shuttle to UM Hospital,,1,3720,756,1,2
+NE,5,42805,NorthEast Shuttle to UM Hospital via VA,,1,3721,755,1,2
+NE,5,42782,NorthEast Shuttle to UM Hospital,,1,3722,756,1,2
+NE,5,42804,NorthEast Shuttle to UM Hospital via VA,,1,3723,755,1,2
+NE,5,42781,NorthEast Shuttle to UM Hospital,,1,3719,756,1,2
+NE,5,42803,NorthEast Shuttle to UM Hospital via VA,,1,3720,755,1,2
+NE,5,42780,NorthEast Shuttle to UM Hospital,,1,3721,756,1,2
+NE,5,42802,NorthEast Shuttle to UM Hospital via VA,,1,3722,755,1,2
+NE,5,42779,NorthEast Shuttle to UM Hospital,,1,3723,756,1,2
+NE,5,42801,NorthEast Shuttle to UM Hospital via VA,,1,3719,755,1,2
+NE,5,42778,NorthEast Shuttle to UM Hospital,,1,3720,756,1,2
+NE,5,42800,NorthEast Shuttle to UM Hospital via VA,,1,3721,755,1,2
+NE,5,42777,NorthEast Shuttle to UM Hospital,,1,3722,756,1,2
+NE,5,42799,NorthEast Shuttle to UM Hospital via VA,,1,3723,755,1,2
+NE,5,43418,NorthEast Shuttle to UM Hospital,,1,3726,756,1,2
+NE,5,43419,NorthEast Shuttle to UM Hospital via VA,,1,3727,755,1,2
+NE,5,43420,NorthEast Shuttle to UM Hospital,,1,3728,756,1,2
+NE,5,43421,NorthEast Shuttle to UM Hospital via VA,,1,3729,755,1,2
+NW,5,43101,Northwood to NW 5,,0,3700,760,1,2
+NW,5,43102,Northwood to NW 5,,0,3702,760,1,2
+NW,5,43020,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43103,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43100,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43099,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43098,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43097,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43096,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43095,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43094,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43093,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43092,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43091,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43090,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43089,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43088,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43087,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43086,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43085,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43084,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43083,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43082,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43081,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43080,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43079,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43078,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43077,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43076,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43075,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43074,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43073,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43072,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43071,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43070,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43069,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43068,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43067,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43066,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43065,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43064,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43063,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43062,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43061,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43060,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43059,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43058,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43057,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43056,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43055,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43054,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43053,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43052,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43051,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43050,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43049,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43048,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43047,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43046,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43045,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43044,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43043,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43042,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43041,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43040,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43039,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43038,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43037,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43036,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43035,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43034,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43033,Northwood to NW 5,,0,3703,759,1,2
+NW,5,43032,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43031,Northwood to NW 5,,0,3702,759,1,2
+NW,5,43030,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43029,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43028,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43027,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43026,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43025,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43024,Northwood to NW 5,,0,3701,759,1,2
+NW,3405,43023,Northwood to NW 5,,0,3731,759,1,2
+NW,3705,43012,Northwood to NW 5,,0,3730,759,1,2
+NW,5,43022,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43021,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43019,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43018,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43017,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43016,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43015,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43014,Northwood to NW 5,,0,3701,759,1,2
+NW,5,43013,Northwood to NW 5,,0,3700,759,1,2
+NW,5,43194,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43193,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43192,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43191,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43190,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43189,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43188,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43187,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43186,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43185,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43184,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43183,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43182,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43181,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43180,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43179,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43178,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43177,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43176,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43175,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43174,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43173,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43172,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43171,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43170,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43169,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43168,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43167,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43166,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43165,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43164,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43163,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43162,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43161,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43160,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43159,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43158,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43157,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43156,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43155,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43154,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43153,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43152,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43151,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43150,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43149,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43148,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43147,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43146,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43145,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43144,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43143,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43142,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43141,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43140,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43139,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43138,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43137,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43136,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43135,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43134,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43133,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43132,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43131,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43130,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43129,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43128,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43127,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43126,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43125,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43124,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43123,Northwood to CCTC,,1,3703,761,1,2
+NW,5,43122,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43121,Northwood to CCTC,,1,3702,761,1,2
+NW,5,43120,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43119,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43118,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43117,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43116,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43115,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43114,Northwood to CCTC,,1,3701,761,1,2
+NW,3705,43113,Northwood to CCTC,,1,3731,761,1,2
+NW,3405,43104,Northwood to CCTC,,1,3730,761,1,2
+NW,5,43112,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43111,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43110,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43109,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43108,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43107,Northwood to CCTC,,1,3701,761,1,2
+NW,5,43106,Northwood to CCTC,,1,3700,761,1,2
+NW,5,43105,Northwood to CCTC,,1,3701,761,1,2
+WS,5,43265,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43264,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43263,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43262,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43261,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43260,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43259,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43258,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43257,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43256,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43255,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43254,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43253,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43252,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43251,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43250,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43249,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43248,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43247,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43246,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43245,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43244,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43243,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43242,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43241,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43240,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43239,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43238,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43237,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43236,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43235,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43234,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43233,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43232,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43231,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43230,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43229,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43228,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43227,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43226,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43225,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43224,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43223,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43222,Wall Street-NIB to NIB,,0,3704,767,1,2
+WS,5,43221,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43220,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43219,Wall Street-NIB to NIB,,0,3704,767,1,2
+WS,5,43218,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43217,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43216,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43215,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43214,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43213,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43212,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43211,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43210,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43209,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43208,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43207,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43206,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43205,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43204,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43203,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43202,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43201,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43200,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43199,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43198,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43197,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43196,Wall Street-NIB to NIB,,0,3731,767,1,2
+WS,5,43195,Wall Street-NIB to NIB,,0,3730,767,1,2
+WS,5,43334,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43333,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43332,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43331,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43330,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43329,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43328,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43327,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43326,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43325,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43324,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43323,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43322,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43321,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43320,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43319,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43318,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43317,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43316,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43315,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43314,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43313,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43312,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43311,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43310,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43309,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43308,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43307,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43306,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43305,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43304,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43303,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43302,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43301,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43300,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43299,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43298,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43297,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43296,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43295,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43294,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43293,Wall Street-NIB to Wall St,,1,3704,768,1,2
+WS,5,43292,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43291,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43290,Wall Street-NIB to Wall St,,1,3704,768,1,2
+WS,5,43289,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43288,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43287,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43286,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43285,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43284,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43283,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43282,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43281,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43280,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43279,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43278,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43277,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43276,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43275,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43274,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43273,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43272,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43271,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43270,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43269,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43268,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43267,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43266,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WS,5,43335,Wall Street-NIB to Wall St,,1,3731,768,1,2
+WS,5,43336,Wall Street-NIB to Wall St,,1,3730,768,1,2
+WX,5,43368,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43367,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43366,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43365,Wall Street Express to CVC,,0,3731,769,1,2
+WX,5,43364,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43363,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43362,Wall Street Express to CVC,,0,3732,769,1,2
+WX,5,43361,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43360,Wall Street Express to CVC,,0,3732,769,1,2
+WX,5,43359,Wall Street Express to CVC,,0,3730,769,1,2
+WX,3705,43358,Wall Street Express to CVC,,0,3732,769,1,2
+WX,3405,43340,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43357,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43356,Wall Street Express to CVC,,0,3732,769,1,2
+WX,5,43355,Wall Street Express to CVC,,0,3732,769,1,2
+WX,5,43354,Wall Street Express to CVC,,0,3732,769,1,2
+WX,5,43353,Wall Street Express to CVC,,0,3732,769,1,2
+WX,5,43352,Wall Street Express to CVC,,0,3731,769,1,2
+WX,3705,43351,Wall Street Express to CVC,,0,3732,769,1,2
+WX,3405,43339,Wall Street Express to CVC,,0,3731,769,1,2
+WX,3705,43338,Wall Street Express to CVC,,0,3732,769,1,2
+WX,3405,43350,Wall Street Express to CVC,,0,3731,769,1,2
+WX,5,43349,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43348,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43347,Wall Street Express to CVC,,0,3730,769,1,2
+WX,3705,43346,Wall Street Express to CVC,,0,3730,769,1,2
+WX,3405,43337,Wall Street Express to CVC,,0,3731,769,1,2
+WX,5,43345,Wall Street Express to CVC,,0,3731,769,1,2
+WX,5,43344,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43343,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43342,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43341,Wall Street Express to CVC,,0,3730,769,1,2
+WX,5,43373,Wall Street Express to Wall St,,1,3730,770,1,2
+WX,5,43401,Wall Street Express to Wall St,,1,3730,770,1,2
+WX,5,43400,Wall Street Express to Wall St,,1,3730,770,1,2
+WX,5,43399,Wall Street Express to Wall St,,1,3730,770,1,2
+WX,5,43398,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,5,43397,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,5,43396,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,5,43395,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,5,43394,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,5,43393,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,5,43392,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,3705,43391,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,3405,43372,Wall Street Express to Wall St,,1,3732,770,1,2
+WX,5,43390,Wall Street Express to Wall St,,1,3732,770,1,2
+WX,5,43389,Wall Street Express to Wall St,,1,3732,770,1,2
+WX,5,43388,Wall Street Express to Wall St,,1,3732,770,1,2
+WX,5,43387,Wall Street Express to Wall St,,1,3732,770,1,2
+WX,5,43386,Wall Street Express to Wall St,,1,3732,770,1,2
+WX,5,43385,Wall Street Express to Wall St,,1,3732,770,1,2
+WX,3705,43384,Wall Street Express to Wall St,,1,3732,770,1,2
+WX,3405,43371,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,3705,43370,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,3405,43383,Wall Street Express to Wall St,,1,3732,770,1,2
+WX,5,43382,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,5,43381,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,5,43380,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,3705,43379,Wall Street Express to Wall St,,1,3731,770,1,2
+WX,3405,43369,Wall Street Express to Wall St,,1,3730,770,1,2
+WX,5,43378,Wall Street Express to Wall St,,1,3730,770,1,2
+WX,5,43377,Wall Street Express to Wall St,,1,3730,770,1,2
+WX,5,43376,Wall Street Express to Wall St,,1,3730,770,1,2
+WX,5,43375,Wall Street Express to Wall St,,1,3730,770,1,2
+WX,5,43374,Wall Street Express to Wall St,,1,3730,770,1,2
+CSX,5,43402,,,0,3698,771,2,2
+CSX,5,43403,,,0,3699,771,2,2
+CSX,5,43406,,,0,3698,771,2,2
+CSX,5,43407,,,0,3699,771,2,2
+CSX,5,43408,,,0,3698,771,2,2
+CSX,5,43409,,,0,3699,771,2,2
+CSX,5,43410,,,0,3698,771,2,2
+CSX,5,43411,,,0,3699,771,2,2
+CSX,5,43412,,,0,3698,771,2,2
+CSX,5,43413,,,0,3699,771,2,2
+NW,6,42825,Northwood to NW 5,,0,3738,760,1,2
+NW,6,42824,Northwood to NW 5,,0,3739,760,1,2
+NW,6,42823,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42822,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42869,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42868,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42867,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42866,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42865,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42864,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42863,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42862,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42861,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42860,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42859,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42858,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42857,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42856,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42855,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42854,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42853,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42852,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42851,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42850,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42849,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42848,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42847,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42846,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42845,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42844,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42843,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42842,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42841,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42840,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42839,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42838,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42837,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42836,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42835,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42834,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42833,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42832,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42831,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42830,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42829,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42828,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42827,Northwood to NW 5,,0,3738,759,1,2
+NW,6,42826,Northwood to NW 5,,0,3739,759,1,2
+NW,6,42873,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42872,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42871,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42870,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42916,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42915,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42914,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42913,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42912,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42911,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42910,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42909,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42908,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42907,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42906,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42905,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42904,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42903,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42902,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42901,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42900,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42899,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42898,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42897,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42896,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42895,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42894,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42893,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42892,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42891,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42890,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42889,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42888,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42887,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42886,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42885,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42884,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42883,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42882,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42881,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42880,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42879,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42878,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42877,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42876,Northwood to CCTC,,1,3738,761,1,2
+NW,6,42875,Northwood to CCTC,,1,3739,761,1,2
+NW,6,42874,Northwood to CCTC,,1,3738,761,1,2
+NW,7,42920,Northwood to NW 5,,0,3740,760,1,2
+NW,7,42919,Northwood to NW 5,,0,3741,760,1,2
+NW,7,42918,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42917,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42964,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42963,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42962,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42961,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42960,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42959,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42958,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42957,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42956,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42955,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42954,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42953,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42952,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42951,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42950,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42949,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42948,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42947,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42946,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42945,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42944,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42943,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42942,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42941,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42940,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42939,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42938,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42937,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42936,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42935,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42934,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42933,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42932,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42931,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42930,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42929,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42928,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42927,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42926,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42925,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42924,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42923,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42922,Northwood to NW 5,,0,3740,759,1,2
+NW,7,42921,Northwood to NW 5,,0,3741,759,1,2
+NW,7,42968,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42967,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42966,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42965,Northwood to CCTC,,1,3741,761,1,2
+NW,7,43011,Northwood to CCTC,,1,3740,761,1,2
+NW,7,43010,Northwood to CCTC,,1,3741,761,1,2
+NW,7,43009,Northwood to CCTC,,1,3740,761,1,2
+NW,7,43008,Northwood to CCTC,,1,3741,761,1,2
+NW,7,43007,Northwood to CCTC,,1,3740,761,1,2
+NW,7,43006,Northwood to CCTC,,1,3741,761,1,2
+NW,7,43005,Northwood to CCTC,,1,3740,761,1,2
+NW,7,43004,Northwood to CCTC,,1,3741,761,1,2
+NW,7,43003,Northwood to CCTC,,1,3740,761,1,2
+NW,7,43002,Northwood to CCTC,,1,3741,761,1,2
+NW,7,43001,Northwood to CCTC,,1,3740,761,1,2
+NW,7,43000,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42999,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42998,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42997,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42996,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42995,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42994,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42993,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42992,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42991,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42990,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42989,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42988,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42987,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42986,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42985,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42984,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42983,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42982,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42981,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42980,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42979,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42978,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42977,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42976,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42975,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42974,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42973,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42972,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42971,Northwood to CCTC,,1,3740,761,1,2
+NW,7,42970,Northwood to CCTC,,1,3741,761,1,2
+NW,7,42969,Northwood to CCTC,,1,3740,761,1,2

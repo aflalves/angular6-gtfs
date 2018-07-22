@@ -1,4 +1,4 @@
-<span *ngFor="let trip of trips;let i = index;">
+<!--span *ngFor="let trip of trips;let i = index;">
   <input
     type="button"
     value="{{trip.trip_headsign}}"
@@ -6,7 +6,7 @@
 </span>
 
 <!-- this creates a google map on the page with the given lat/lng from -->
-<!-- the component as the initial center of the map: -->
+<!-- the component as the initial center of the map:>
 <agm-map [zoom]="14" [latitude]="42.280635" [longitude]="-83.737273" *ngIf="tripRoute">
   <agm-marker *ngFor="let stop of tripRoute;let i = index;"
     [latitude]="stop.stopData.stop_lat"
@@ -25,4 +25,6 @@
   </agm-polyline>
 
 
-</agm-map>
+</agm-map-->
+
+<app-um-nav></app-um-nav>

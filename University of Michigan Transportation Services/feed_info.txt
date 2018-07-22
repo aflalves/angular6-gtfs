@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+University of Michigan Transportation Services,http://ltp.umich.edu,en,20180421,20180824,20180421 Sp/Su_20180501
