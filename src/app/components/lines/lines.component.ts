@@ -10,7 +10,7 @@ import { GtfsService } from 'src/app/modules/gtfs/gtfs.service';
 
 /**
  * Lists trips from GTFS feed.
- * Emits trip_id to parent component to change route that is display on map
+ * Emits trip_id to parent component to change route that is displayed on the map
  */
 export class LinesComponent implements OnInit {
 

@@ -18,7 +18,7 @@ export class TripComponent implements OnInit {
     this.trips = this.gtfsService.getTable(GtfsEnum.TRIPS);
   }
 
-  onShowLine(trip_id: string) {
+  onShowTrip(trip_id: string) {
     this.tripRoute = this.gtfsService.buildTripRoute(trip_id);
   }
 

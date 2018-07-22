@@ -11,10 +11,10 @@ import { NavComponent } from './components/navigation/nav.component';
 import { LayoutModule } from '@angular/cdk/layout';
 import {
   MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, MatButtonToggleModule } from '@angular/material';
-import { WelcomeComponent } from './components/welcome/welcome.component';
+import { WelcomeComponent } from './views/welcome/welcome.component';
 import { LinesComponent } from './components/lines/lines.component';
-import { TripComponent } from './components/map/trip.component';
-import { StopsComponent } from './components/stops/stops.component';
+import { TripComponent } from './views/trips/trip.component';
+import { StopsComponent } from './views/stops/stops.component';
 
 const appRoutes: Routes = [
   { path: '', component: WelcomeComponent },
