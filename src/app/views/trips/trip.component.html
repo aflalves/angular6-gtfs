@@ -1,5 +1,5 @@
 <div class="map-container">
-  <agm-map [zoom]="13" [latitude]="42.280635" [longitude]="-83.737273" *ngIf="tripRoute">
+  <agm-map [zoom]="13" [latitude]="42.280635" [longitude]="-83.737273">
     <agm-marker *ngFor="let stop of tripRoute;let i = index;"
       [latitude]="stop.stopData.stop_lat"
       [longitude]="stop.stopData.stop_lon">

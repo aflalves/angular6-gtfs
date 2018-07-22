@@ -6,7 +6,7 @@
 
   <mat-divider></mat-divider>
 
-  This project uses the GTFS dataset from the University of Michigan (UM)<br>
+  This project uses the GTFS dataset from the {{agency.agency_name}}<br>
 
   Files being used:
 
@@ -22,8 +22,9 @@
   Pages:
 
   <ul>
-      <li><a [routerLink]="['/trips']" class="page-links">Explore Lines: Check out some trips from UM!</a></li>
-      <li><a [routerLink]="['/stops']" class="page-links">Stops: Check out all our stops!</a></li>
+      <li><a [routerLink]="['/trips']" class="page-links">Explore Lines: Check out some trips from {{agency.agency_name}}!</a></li>
+      <li><a [routerLink]="['/stops']" class="page-links">Stops: Check out all stops!</a></li>
+      <li><a [routerLink]="['/agency']" class="page-links">Agency: Get some details from the agency feed!</a></li>
   </ul>
 
   <mat-divider></mat-divider>

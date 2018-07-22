@@ -15,11 +15,13 @@ import { WelcomeComponent } from './views/welcome/welcome.component';
 import { LinesComponent } from './components/lines/lines.component';
 import { TripComponent } from './views/trips/trip.component';
 import { StopsComponent } from './views/stops/stops.component';
+import { AgencyComponent } from './views/agency/agency.component';
 
 const appRoutes: Routes = [
   { path: '', component: WelcomeComponent },
   { path: 'trips', component: TripComponent },
-  { path: 'stops', component: StopsComponent }
+  { path: 'stops', component: StopsComponent },
+  { path: 'agency', component: AgencyComponent}
 ];
 
 @NgModule({
@@ -29,7 +31,8 @@ const appRoutes: Routes = [
     TripComponent,
     WelcomeComponent,
     LinesComponent,
-    StopsComponent
+    StopsComponent,
+    AgencyComponent
   ],
   imports: [
     BrowserModule,
