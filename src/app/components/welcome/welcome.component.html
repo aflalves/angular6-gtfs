@@ -1,20 +1,32 @@
-<p>
-  Welcome!
-</p>
+<div class="main-content">
 
-<mat-divider></mat-divider>
+  <p>
+    Welcome!
+  </p>
 
-This project currently user the GTFS dataset from the University of Michigan (UM)<br>
+  <mat-divider></mat-divider>
 
-Currently using:
+  This project uses the GTFS dataset from the University of Michigan (UM)<br>
 
-<ul>
-  <li>routes</li>
-  <li>trips</li>
-  <li>stops</li>
-  <li>stop_times</li>
-</ul>
+  Files being used:
 
-<mat-divider></mat-divider>
+  <ul>
+    <li>routes</li>
+    <li>trips</li>
+    <li>stops</li>
+    <li>stop_times</li>
+  </ul>
 
-About me:
+  <mat-divider></mat-divider>
+
+  Pages:
+
+  <ul>
+      <li><a [routerLink]="['/map']" class="page-links">Explore Lines: Check out some trips from UM!</a></li>
+  </ul>
+
+  <mat-divider></mat-divider>
+
+  About me:
+
+</div>
