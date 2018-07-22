@@ -1,19 +1,19 @@
 
 import { fakeAsync, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { UmNavComponent } from './um-nav.component';
+import { NavComponent } from './nav.component';
 
-describe('UmNavComponent', () => {
-  let component: UmNavComponent;
-  let fixture: ComponentFixture<UmNavComponent>;
+describe('NavComponent', () => {
+  let component: NavComponent;
+  let fixture: ComponentFixture<NavComponent>;
 
   beforeEach(fakeAsync(() => {
     TestBed.configureTestingModule({
-      declarations: [ UmNavComponent ]
+      declarations: [ NavComponent ]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(UmNavComponent);
+    fixture = TestBed.createComponent(NavComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   }));
