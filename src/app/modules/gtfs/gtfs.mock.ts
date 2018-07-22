@@ -189,7 +189,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "C201",
@@ -203,7 +203,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "C202",
@@ -217,7 +217,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "C203",
@@ -231,7 +231,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "C208",
@@ -245,7 +245,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "C210",
@@ -259,7 +259,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "C211",
@@ -273,7 +273,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "C250",
@@ -287,7 +287,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "C251",
@@ -301,7 +301,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "E601",
@@ -315,7 +315,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "E603",
@@ -329,7 +329,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "E604",
@@ -343,7 +343,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "E605",
@@ -357,7 +357,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "E606",
@@ -371,7 +371,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "E607",
@@ -385,7 +385,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "E608",
@@ -399,7 +399,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "E609",
@@ -413,7 +413,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "E610",
@@ -427,7 +427,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "E611",
@@ -441,7 +441,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "E612",
@@ -455,7 +455,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M302",
@@ -469,7 +469,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M303",
@@ -483,7 +483,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M304",
@@ -497,7 +497,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M305",
@@ -511,7 +511,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M306",
@@ -525,7 +525,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M307",
@@ -539,7 +539,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M309",
@@ -553,7 +553,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M311",
@@ -567,7 +567,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M312",
@@ -581,7 +581,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M313",
@@ -595,7 +595,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M314",
@@ -609,7 +609,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M315",
@@ -623,7 +623,7 @@ export class GtfsMock {
         "location_type": "",
         "parent_station": "",
         "stop_timezone": "",
-        "wheelchair_boarding": 2
+        "wheelchair_boarding": 1
       },
       {
         "stop_id": "M316",

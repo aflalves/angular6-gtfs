@@ -10,13 +10,14 @@ import { GtfsEnum } from '../../enums/gtfs.enum';
 export class GtfsService {
 
   private gtfsFeed;
+  private mappedStops;
 
   constructor() {
     // Gets mocked GTFS data
     this.gtfsFeed = new GtfsMock().UM_Transit;
 
     // Creates hash map of stops for fast access of stop lat/lng
-    this.gtfsFeed[GtfsEnum.STOPS] = this.mapStops();
+    this.mappedStops = this.mapStops();
   }
 
   /**
@@ -41,8 +42,8 @@ export class GtfsService {
    * @stop_id: Stop identifier
    * Returns the stop data (name, lat, lng)
    */
-  getStopData(stop_id: string) {
-    return this.gtfsFeed[GtfsEnum.STOPS][stop_id];
+  getStopDataById(stop_id: string) {
+    return this.mappedStops[stop_id];
   }
 
   /**
@@ -70,7 +71,7 @@ export class GtfsService {
    */
   addStopData(trip_stops: Array<any>) {
     trip_stops.forEach(trip_stop => {
-      trip_stop.stopData = this.getStopData(trip_stop.stop_id);
+      trip_stop.stopData = this.getStopDataById(trip_stop.stop_id);
     });
   }
 
