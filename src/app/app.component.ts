@@ -11,13 +11,18 @@ import { GtfsEnum } from './enums/gtfs.enum';
 })
 export class AppComponent implements OnInit {
 
-  lat = 51.678418;
-  lng = 7.809007;
+  tripRoute = [];
+  trips = [];
 
   constructor(private gtfsService: GtfsService) {}
 
   ngOnInit() {
-    console.log(this.gtfsService.getTable(GtfsEnum.STOPS));
+    this.trips = this.gtfsService.getTable(GtfsEnum.TRIPS);
+    this.tripRoute = this.gtfsService.buildTripRoute(this.trips[2].trip_id);
+  }
+
+  showTrip(trip_id: string) {
+    this.tripRoute = this.gtfsService.buildTripRoute(trip_id);
   }
 
 }
