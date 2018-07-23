@@ -10,18 +10,22 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NavComponent } from './components/navigation/nav.component';
 import { LayoutModule } from '@angular/cdk/layout';
 import {
-  MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, MatButtonToggleModule } from '@angular/material';
+  MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, MatButtonToggleModule,
+  MatExpansionModule,
+  MatFormFieldModule} from '@angular/material';
 import { WelcomeComponent } from './views/welcome/welcome.component';
 import { LinesComponent } from './components/lines/lines.component';
 import { TripComponent } from './views/trips/trip.component';
 import { StopsComponent } from './views/stops/stops.component';
 import { AgencyComponent } from './views/agency/agency.component';
+import { RoutesComponent } from './views/routes/routes.component';
 
 const appRoutes: Routes = [
   { path: '', component: WelcomeComponent },
   { path: 'trips', component: TripComponent },
   { path: 'stops', component: StopsComponent },
-  { path: 'agency', component: AgencyComponent}
+  { path: 'agency', component: AgencyComponent},
+  { path: 'routes', component: RoutesComponent}
 ];
 
 @NgModule({
@@ -32,7 +36,8 @@ const appRoutes: Routes = [
     WelcomeComponent,
     LinesComponent,
     StopsComponent,
-    AgencyComponent
+    AgencyComponent,
+    RoutesComponent
   ],
   imports: [
     BrowserModule,
@@ -47,6 +52,8 @@ const appRoutes: Routes = [
     MatSidenavModule,
     MatIconModule,
     MatListModule,
+    MatExpansionModule,
+    MatFormFieldModule,
     MatButtonToggleModule,
     RouterModule.forRoot(appRoutes),
   ],

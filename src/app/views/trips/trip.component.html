@@ -7,13 +7,13 @@
       <agm-info-window>
         <span class="info-content">
           <strong>Stop name: </strong>{{stop.stopData.stop_name}}<br>
-          <!--strong>Time: </strong>{{stop.arrival_time}}-->
+          <strong>Time: </strong>{{stop.arrival_time}}
         </span>
       </agm-info-window>
 
     </agm-marker>
 
-    <agm-polyline [strokeColor]="'blue'" [geodesic]="true" >
+    <agm-polyline [strokeColor]="'blue'" [geodesic]="true">
         <agm-polyline-point *ngFor="let point of tripRoute" [latitude]="point.stopData.stop_lat" [longitude]="point.stopData.stop_lon">
         </agm-polyline-point>
     </agm-polyline>
