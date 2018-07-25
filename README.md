@@ -1,8 +1,10 @@
 # Angular 6 GTFS
 
-# This application uses NodeJS, so make sure you have it installed: https://nodejs.org/en/download/
+# Node
 
-# After installing Node, run:
+This application uses NodeJS, so make sure you have it installed: https://nodejs.org/en/download/
+
+## After installing Node, run:
 
 $ npm install
 $ npm install -g angular/cli
