@@ -1,0 +1,10 @@
+<mat-expansion-panel *ngFor="let route of routes">
+  <mat-expansion-panel-header>
+    <mat-panel-title>
+      {{route.route_long_name}}
+    </mat-panel-title>
+  </mat-expansion-panel-header>
+  {{route.route_desc}}
+  <p><a target="_blank" href="{{route.route_url}}" class="pdf-download">Download the PDF for this route</a></p>
+</mat-expansion-panel>
+

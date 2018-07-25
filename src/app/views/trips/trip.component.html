@@ -1,0 +1,24 @@
+<div class="map-container">
+  <agm-map [zoom]="13" [latitude]="42.280635" [longitude]="-83.737273">
+    <agm-marker *ngFor="let stop of tripRoute;let i = index;"
+      [latitude]="stop.stopData.stop_lat"
+      [longitude]="stop.stopData.stop_lon">
+
+      <agm-info-window>
+        <span class="info-content">
+          <strong>Stop name: </strong>{{stop.stopData.stop_name}}<br>
+          <strong>Time: </strong>{{stop.arrival_time}}
+        </span>
+      </agm-info-window>
+
+    </agm-marker>
+
+    <agm-polyline [strokeColor]="'blue'" [geodesic]="true">
+        <agm-polyline-point *ngFor="let point of tripRoute" [latitude]="point.stopData.stop_lat" [longitude]="point.stopData.stop_lon">
+        </agm-polyline-point>
+    </agm-polyline>
+
+  </agm-map>
+</div>
+
+<app-lines (showTripEvent)="onShowTrip($event)"></app-lines>

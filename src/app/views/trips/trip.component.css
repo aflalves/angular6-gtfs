@@ -1,0 +1,12 @@
+agm-map {
+  height: 89.9vh;
+  width: 60vw;
+}
+
+.map-container {
+  float: left;
+}
+
+.info-content {
+  color: #303030;
+}

@@ -1,4 +1,8 @@
 import { Component } from '@angular/core';
+import { GtfsService } from './modules/gtfs/gtfs.service';
+import { OnInit } from '@angular/core/src/metadata/lifecycle_hooks';
+import { GtfsEnum } from './enums/gtfs.enum';
+
 
 @Component({
   selector: 'app-root',
@@ -6,5 +10,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+
 }

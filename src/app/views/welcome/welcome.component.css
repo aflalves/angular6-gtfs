@@ -1,0 +1,16 @@
+.page-links {
+  color: #c2185b
+}
+
+.tab-container {
+  padding: 1rem;
+  line-height: 1.5rem;
+}
+
+mat-divider {
+  padding-bottom: 1rem;
+}
+
+.tab-container a {
+  color: #dcd74f;
+}

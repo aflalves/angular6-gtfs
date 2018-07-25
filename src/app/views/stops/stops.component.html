@@ -1,0 +1,22 @@
+<div class="map-container">
+  <agm-map [zoom]="13" [latitude]="42.280635" [longitude]="-83.737273">
+    <agm-marker *ngFor="let stop of stops; let i = index;"
+      [latitude]="stop.stop_lat"
+      [longitude]="stop.stop_lon">
+
+      <agm-info-window>
+        <span class="info-content">
+          <strong>Stop name: </strong>{{stop.stop_name}}<br>
+          <strong>Stop details: </strong>{{stop.stop_desc}}
+          <mat-icon
+            aria-label="Accessible"
+            class="material-icons"
+            [ngStyle]="{'color':stop.wheelchair_boarding === 1 ? 'green' : 'red' }">accessible
+          </mat-icon>
+        </span>
+      </agm-info-window>
+
+    </agm-marker>
+
+  </agm-map>
+</div>

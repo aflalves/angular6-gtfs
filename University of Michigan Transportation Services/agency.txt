@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+UM_Transit,University of Michigan Transportation Services,http://ltp.umich.edu,America/Detroit,en,(734) 764-7475,

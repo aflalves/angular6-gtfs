@@ -1,0 +1,125 @@
+Interface Name: GoogleExport
+Service Name: GoogleExport
+
+Export To: C:\Users\mdenemy\Desktop\GTFS 20180501\
+Log File: C:\Users\mdenemy\Desktop\GTFS 20180501\google.log
+
+Format: Delimiter
+Delimiter: ,
+Qualifier: "
+
+Selected Files: 
+	agency.txt
+	stops.txt
+	trips.txt
+	stop times.txt
+	calendar.txt
+	calendar dates.txt
+	shapes.txt
+	feed_info.txt
+
+SignUp Period:
+	20180421 Sp/Su
+
+ServiceGroup(s):
+	SAT 
+	SUN 
+	WKDY 
+
+Line(s):
+	CN - Commuter North
+	CS - Commuter South
+	CSX - Crisler Express
+	MX - Med Express
+	NE - North-East Shuttle
+	NW - Northwood
+	WS - Wall Street-NIB
+	WX - Wall Street Express
+
+Options:
+	Revenue trip only: No
+	Use GPS Coordinates: No
+	StopId Field: StopAbbr
+	RouteId Field: LineAbbr
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Date      time   Message                                          
+--------  -----  -------------------------------------------------
+05-01-18  11:06  Start export.                                    
+05-01-18  11:06  Loaded 6 supplementary Records.                  
+05-01-18  11:06  Loaded signup.                                   
+05-01-18  11:06  Loaded 42 Headsigns.                             
+05-01-18  11:06  Loaded 0 Calendar_dates.                         
+05-01-18  11:06  Loaded 485 stop pattern distances.               
+05-01-18  11:06  Loaded 3 ServiceGroups.                          
+05-01-18  11:06  Loaded 0 rows of ServiceGroup/ExcCombo Info.     
+05-01-18  11:06  Loaded 2 AccessibilityTypes.                     
+05-01-18  11:06  Loaded 4 BusTypes.                               
+05-01-18  11:06  Loaded 8 lines.                                  
+05-01-18  11:06  Loaded 1026 trips.                               
+05-01-18  11:06  Loaded 91 stops.                                 
+05-01-18  11:06  Session 1 was created.                           
+05-01-18  11:06  Exported agency file.                            
+05-01-18  11:06  Exported 91 stops records.                       
+05-01-18  11:06  Exported 1026 trip records.                      
+05-01-18  11:06  Loaded 6 supplementary Records.                  
+05-01-18  11:06  Loaded signup.                                   
+05-01-18  11:06  Loaded 42 Headsigns.                             
+05-01-18  11:06  Loaded 0 Calendar_dates.                         
+05-01-18  11:06  Loaded 485 stop pattern distances.               
+05-01-18  11:06  Loaded 3 ServiceGroups.                          
+05-01-18  11:06  Loaded 0 rows of ServiceGroup/ExcCombo Info.     
+05-01-18  11:06  Loaded 2 AccessibilityTypes.                     
+05-01-18  11:06  Loaded 4 BusTypes.                               
+05-01-18  11:06  Loaded 8 lines.                                  
+05-01-18  11:06  Loaded 1026 trips.                               
+05-01-18  11:06  Loaded 91 stops.                                 
+05-01-18  11:06  Created 91 Stop Records.                         
+05-01-18  11:06  Created 1026 trip Records.                       
+05-01-18  11:06  Exported 504 stop time records from trip 0 to 29.
+05-01-18  11:06  Got 549 stop times from trip 30 to 59.           
+05-01-18  11:06  Got 540 stop times from trip 60 to 89.           
+05-01-18  11:06  Got 495 stop times from trip 90 to 119.          
+05-01-18  11:06  Got 561 stop times from trip 120 to 149.         
+05-01-18  11:06  Got 643 stop times from trip 150 to 179.         
+05-01-18  11:06  Got 630 stop times from trip 180 to 209.         
+05-01-18  11:06  Got 630 stop times from trip 210 to 239.         
+05-01-18  11:06  Got 519 stop times from trip 240 to 269.         
+05-01-18  11:06  Got 162 stop times from trip 270 to 299.         
+05-01-18  11:06  Got 172 stop times from trip 300 to 329.         
+05-01-18  11:06  Got 480 stop times from trip 330 to 359.         
+05-01-18  11:06  Got 490 stop times from trip 360 to 389.         
+05-01-18  11:06  Got 705 stop times from trip 390 to 419.         
+05-01-18  11:06  Got 616 stop times from trip 420 to 449.         
+05-01-18  11:06  Got 540 stop times from trip 450 to 479.         
+05-01-18  11:06  Got 540 stop times from trip 480 to 509.         
+05-01-18  11:06  Got 456 stop times from trip 510 to 539.         
+05-01-18  11:06  Got 330 stop times from trip 540 to 569.         
+05-01-18  11:06  Got 330 stop times from trip 570 to 599.         
+05-01-18  11:06  Got 286 stop times from trip 600 to 629.         
+05-01-18  11:06  Got 210 stop times from trip 630 to 659.         
+05-01-18  11:06  Got 210 stop times from trip 660 to 689.         
+05-01-18  11:06  Got 240 stop times from trip 690 to 719.         
+05-01-18  11:06  Got 240 stop times from trip 720 to 749.         
+05-01-18  11:06  Got 183 stop times from trip 750 to 779.         
+05-01-18  11:06  Got 167 stop times from trip 780 to 809.         
+05-01-18  11:06  Got 236 stop times from trip 810 to 839.         
+05-01-18  11:06  Got 540 stop times from trip 840 to 869.         
+05-01-18  11:06  Got 428 stop times from trip 870 to 899.         
+05-01-18  11:06  Got 330 stop times from trip 900 to 929.         
+05-01-18  11:06  Got 521 stop times from trip 930 to 959.         
+05-01-18  11:06  Got 463 stop times from trip 960 to 989.         
+05-01-18  11:06  Got 330 stop times from trip 990 to 1019.        
+05-01-18  11:06  Got 66 stop times from trip 1020 to 1025.        
+05-01-18  11:06  Exported 13838 stop time records.                
+05-01-18  11:06  Exported 5 calendar records.                     
+05-01-18  11:06  Fail to export calendar date file.               
+05-01-18  11:06  Created 5 trip Calendar Records.                 
+05-01-18  11:06  Created 0 trip Calendar_date Records.            
+05-01-18  11:06  Exported 3158 shapes from Pat 0 to 24.           
+05-01-18  11:06  Got 1812 shapes - pattern 25 to 41.              
+05-01-18  11:06  Exported 1812 shape records.                     
+05-01-18  11:06  Exported feed_info file.                         
+05-01-18  11:06  Closed seeeion 1.                                
+
