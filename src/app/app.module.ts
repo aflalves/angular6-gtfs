@@ -12,13 +12,15 @@ import { LayoutModule } from '@angular/cdk/layout';
 import {
   MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, MatButtonToggleModule,
   MatExpansionModule,
-  MatFormFieldModule} from '@angular/material';
+  MatFormFieldModule,
+  MatTabsModule} from '@angular/material';
 import { WelcomeComponent } from './views/welcome/welcome.component';
 import { LinesComponent } from './components/lines/lines.component';
 import { TripComponent } from './views/trips/trip.component';
 import { StopsComponent } from './views/stops/stops.component';
 import { AgencyComponent } from './views/agency/agency.component';
 import { RoutesComponent } from './views/routes/routes.component';
+import { MatTab } from '@angular/material/tabs/typings/tab';
 
 const appRoutes: Routes = [
   { path: '', component: WelcomeComponent },
@@ -55,6 +57,7 @@ const appRoutes: Routes = [
     MatExpansionModule,
     MatFormFieldModule,
     MatButtonToggleModule,
+    MatTabsModule,
     RouterModule.forRoot(appRoutes),
   ],
   providers: [],

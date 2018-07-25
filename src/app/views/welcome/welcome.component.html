@@ -1,34 +1,96 @@
-<div class="main-content">
+<mat-tab-group>
 
-  <p>
-    Welcome!
-  </p>
+  <mat-tab>
+    <ng-template mat-tab-label>
+      About this project
+    </ng-template>
+    <div class="tab-container">
+      <h1>
+        Welcome!
+      </h1>
+      <p>This project is part of a coding challenge, and my task was to build a frontend application featuring a GTFS dataset along
+        with a map to display meaningful information.</p>
 
-  <mat-divider></mat-divider>
+      <p>The documentation below explains some of the main ideas and thoughts for this project.</p>
 
-  This project uses the GTFS dataset from the {{agency.agency_name}}<br>
+      <h2>The GTFS and the GtfsService</h2>
 
-  Files being used:
+      <p>The GTFS source is from
+        <a target="_blank" href="{{agency.agency_url}}">{{agency.agency_name}}</a>
+        and it is currently stored as json (converted using
+        <a target="_blank" href="https://www.csvjson.com/csv2json">csvjson</a>) on a
+        <a target="_blank" href="https://github.com/aflalves/angular6-gtfs/blob/develop/src/app/modules/gtfs/gtfs.mock.ts">mock file</a>, which is retrieved by an Angular Service (
+        <a target="_blank" href="https://github.com/aflalves/angular6-gtfs/blob/develop/src/app/modules/gtfs/gtfs.service.ts">GtfsService</a>) that exposes GTFS data to the application. This abstraction makes the process of swapping the mocked
+        json to a real API retrieved json completely invisible for the Angular UI components that uses the GTFS dataset from the GtfsService.</p>
 
-  <ul>
-    <li>routes</li>
-    <li>trips</li>
-    <li>stops</li>
-    <li>stop_times</li>
-  </ul>
+      <h2>Trip Component</h2>
 
-  <mat-divider></mat-divider>
+      <p>The <a target="_blank" href="https://github.com/aflalves/angular6-gtfs/blob/develop/src/app/views/trips/trip.component.ts">TripComponent</a> listens do an event from the child LinesComponent that sends the trip_id of a trip initally retrived from the GTFS trips.txt.
+         The TripComponent will then ask the GtfsService to build the trip data, which consists of two steps:</p>
+      <p>
+          - Get all the stops of this trip from GTFS stop_times.txt by trip_id;<br>
+          - Add the stop data (coordinates, description, etc) to each of those stops using a hash map.
+      </p>
+      <p>With the trip data completed, the Angular Google Maps will render all the stops with their arrival time, description and draw polylines to connect them.
+        This screen could be improved if we use data from shapes.txt, but that requires more effort to be implemented, although it would be very nice to draw the exact path of the bus.
+      </p>
 
-  Pages:
+      <h2>Lines Component</h2>
 
-  <ul>
-      <li><a [routerLink]="['/trips']" class="page-links">Explore Lines: Check out some trips from {{agency.agency_name}}!</a></li>
-      <li><a [routerLink]="['/stops']" class="page-links">Stops: Check out all stops!</a></li>
-      <li><a [routerLink]="['/agency']" class="page-links">Agency: Get some details from the agency feed!</a></li>
-  </ul>
+      <p>The <a target="_blank" href="https://github.com/aflalves/angular6-gtfs/blob/develop/src/app/components/lines/lines.component.ts">LinesComponent</a>
+         lists one random trip of each route and it is used by the TripComponent. It doesn't show all trips because the mocked GTFS from trips.txt doesn't contain every trip.
+         The ideia was to reduce the complexity of having to deal with the recurrence of the same route on different times/days,
+         letting us focus on showing each route currenly available. An improvement I would work on is to show all recurrences of each route, on different days and times. User could select a specific trip of the route and see it at the TripComponent like it is implemented now.</p>
 
-  <mat-divider></mat-divider>
+      <h2>Stops Component</h2>
 
-  About me:
+      <p>The <a target="_blank" href="https://github.com/aflalves/angular6-gtfs/blob/develop/src/app/views/stops/stops.component.ts">StopsComponent</a>
+        reads all stops from the GTFS stops.txt and adds a marker on the map for each of them, which when clicked shows the stop name, description and accessibility.
+        This componenet is quite simple, but it shows how present a trasportation service is on a certain area.
+        Removing the mocked GTFS and integrating the GtfsService with a rest API that could return stops from other agencies would make this component a lot more valuable.</p>
 
-</div>
+      <h2>Routes Component</h2>
+
+      <p>The <a target="_blank" href="https://github.com/aflalves/angular6-gtfs/blob/develop/src/app/views/routes/routes.component.ts">RoutesComponent</a>
+        takes all routes from the GTFS routes.txt and shows its detailed description and also offers a link to the source URL for the route.</p>
+
+      <h2>Git Repository</h2>
+      <p>
+        <a target="_blank" href="https://github.com/aflalves/angular6-gtfs">Click here</a>
+        to open the github repository with the full source code and instructions to run the project on local environment.
+      </p>
+
+    </div>
+  </mat-tab>
+
+  <mat-tab>
+      <ng-template mat-tab-label>
+        Academic Projects
+      </ng-template>
+      <div class="tab-container">
+        <h2>Botão do Pânico UNESP Bauru!</h2>
+
+        <p>The violence in Brazil is evident. The public schools have free access and it is common to
+            struggle with security of the people there. The process to implement new measures to sanitize
+            the situation is slow and has a lot of bureaucracies. The advancement of technology changed
+            the way people interact, and transformed the desktop into a hand device with high connectivity
+            and processing power, capable of obtaining its geolocation through the GPS. The objective
+            of this project was to develop a mobile application capable to trigger the campus security
+            through a “panic button”. It was used last generations technologies like Angular, Ionic and Google
+            Firebase real-time database in order to obtain maximum performance and efficiency.</p>
+
+        <p><a target="_blank" href="assets/andre_alves_revisado.pdf">Download the complete graduation thesis (in Portuguese).</a></p>
+
+        <p>
+            Webapp: <a target="_blank" href="https://botao-do-panico-unesp-bauru.firebaseapp.com/">https://botao-do-panico-unesp-bauru.firebaseapp.com</a><br>
+            E-mail: seguranca@unesp.com.br<br>
+            Password: 123456
+        </p>
+
+         <p>Mobile app (Android): <a target="_blank" href="https://play.google.com/store/apps/details?id=io.ionic.bdpub">https://play.google.com/store/apps/details?id=io.ionic.bdpub</a></p>
+
+         <p>Project github: <a target="_blank" href="https://github.com/aflalves/botao-do-panico-unesp-bauru">https://github.com/aflalves/botao-do-panico-unesp-bauru</a></p>
+
+      </div>
+    </mat-tab>
+</mat-tab-group>

@@ -1,4 +1,11 @@
-# Smart Schedule SP
+# Angular 6 GTFS
+
+# This application uses NodeJS, so make sure you have it installed: https://nodejs.org/en/download/
+
+# After installing Node, run:
+
+$ npm install
+$ npm install -g angular/cli
 
 ## Dev Server
 
